@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
-- 🔭 I'm currently a junior student pursuing a a double-degree in Computer Science and Business Administration at Wilfrid Laurier Univerity!
-- 💻 I have previously worked at an AI start-up Learning Mode AI and as a Software Engineer Intern at Riipen. 
-- ⚡ I enjoy exploring new technologies, collaborating on creative and real-value projects, as well as going to the gym and playing and watching basketball
+- 🔭 I'm a junior pursuing a double-degree in Computer Science and Business Administration at Wilfrid Laurier Univerity.
+- 💻 I’ve previously interned as a Software Engineer at Riipen and worked at the AI start-up Learning Mode AI, gaining hands-on experience in real-world development.
+- ⚡ I love exploring new technologies, building creative projects with real impact, and spending time at the gym or watching/playing basketball.
 
 ## 🛠 Languages and Tools
 
@@ -31,6 +31,5 @@ React, Node.js, Next.js, Express, GraphQL, Spring Boot, Flask
 Git, Unix/Linux, Docker, AWS, Azure *(Certified)*
 
 ## 📫 Reach Me
-- 📧 dharmrajpatel12@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/dharmrajpatel)  
-
+- **Email:** [dharmpat@outlook.com](mailto:dharmpat@outlook.com)  
+- **LinkedIn:** [www.linkedin.com/in/dharmpatel05](https://www.linkedin.com/in/dharmpatel05)
