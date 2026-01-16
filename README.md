@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->  
 
 - 🔭 I'm a junior pursuing a double-degree in Computer Science and Business Administration at Wilfrid Laurier Univerity.
-- 💻 I’ve previously interned as a Software Engineer at Riipen and worked at the AI start-up Learning Mode AI, gaining hands-on experience in real-world development.
+- 💻 I'm currently a Software Engineer Intern at Manulife, and was previously a Data Engineering Research Assisstant at Laurier.
 - ⚡ I love exploring new technologies, building creative projects with real impact, and spending time at the gym or watching/playing basketball.
 
 ## 🛠 Languages and Tools
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 Python, Java, C/C++, JavaScript, TypeScript, R, SQL, VBA, HTML/CSS
 
 **Frameworks & Technologies:**  
-React, Node.js, Next.js, Express, GraphQL, Spring Boot, Flask
+React, Node.js, Next.js, FastAPI, Express, GraphQL, Spring Boot, Flask
 
 **Tools & Platforms:**  
 Git, Unix/Linux, Docker, AWS, Azure *(Certified)*
