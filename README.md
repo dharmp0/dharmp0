@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
-- 🔭 I'm a junior pursuing a double-degree in Computer Science and Business Administration at Wilfrid Laurier Univerity.
-- 💻 I'm currently a Software Engineer Intern at Manulife, and was previously a Data Engineering Research Assisstant at Laurier.
+- 🔭 I'm a junior pursuing a double-degree in Computer Science and Business Administration at Wilfrid Laurier University.
+- 💻 I'm currently a Software Engineer Intern at Manulife, and was previously a Research Assistant at Laurier.
 - ⚡ I love exploring new technologies, building creative projects with real impact, and spending time at the gym or watching/playing basketball.
 
 ## 🛠 Languages and Tools
