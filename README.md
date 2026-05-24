@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->  
 
 - 🔭 I'm a junior pursuing a double-degree in Computer Science and Business Administration at Wilfrid Laurier University.
-- 💻 I'm currently a Software Engineer Intern at Manulife, and was previously a Research Assistant at Laurier.
+- 💻 I'm currently a Software Engineer Intern at RBC, previously a Software Engineer Intern at Manulife and a Research Assistant at Laurier.
 - ⚡ I love exploring new technologies, building creative projects with real impact, and spending time at the gym or watching/playing basketball.
 
 ## 🛠 Languages and Tools
@@ -28,7 +28,7 @@ Python, Java, C/C++, JavaScript, TypeScript, R, SQL, VBA, HTML/CSS
 React, Node.js, Next.js, FastAPI, Express, GraphQL, Spring Boot, Flask
 
 **Tools & Platforms:**  
-Git, Unix/Linux, Docker, AWS, Azure *(Certified)*
+Git, Unix/Linux, Docker, AWS *(Certified)*, Azure *(Certified)*
 
 ## 📫 Reach Me
 - **Email:** [dharmpat@outlook.com](mailto:dharmpat@outlook.com)  
